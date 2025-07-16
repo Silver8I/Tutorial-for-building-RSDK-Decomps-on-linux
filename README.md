@@ -8,7 +8,7 @@ To clone the source code, open a terminal in your desired folder and run one of 
 git clone --recursive https://github.com/RSDKModding/RSDKv3-Decompilation
 git clone --recursive https://github.com/RSDKModding/RSDKv4-Decompilation
 git clone --recursive https://github.com/RSDKModding/RSDKv5-Decompilation
-git clone --recursive https://github.com/RSDKModding/Sonic-Mania-Decompilation```
+git clone --recursive https://github.com/RSDKModding/Sonic-Mania-Decompilation
 ```
 After cloning the source code, build it into binaries by running the following commands in the command line:
 ```
