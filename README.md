@@ -1,4 +1,5 @@
 # Tutorial-for-building-RSDK-Decomps-on-linux
+The video for this can be found here [here](https://youtu.be/FKzG_SkF0VM?si=cCcQnVm_CraS4Rdq)
 To install dependencies, run the following command in the command line:
 ```
 sudo apt install build-essential cmake libglew-dev libglfw3-dev libsdl2-dev libogg-dev libtheora-dev libvorbis-dev git
