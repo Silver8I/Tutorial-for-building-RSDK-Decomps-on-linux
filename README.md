@@ -15,8 +15,15 @@ For Sonic Forever and Sonic 2 Absolute use this command:
 ```
 git clone --recursive https://github.com/ElspethThePict/TeamForever-v4-1.3.git
 ```
+The Linux version is not officially supported, so please don’t ask the original developers for support.
+
+
 After cloning the source code, build it into binaries by running the following commands in the command line(THIS WILL NOT WORK FOR Sonic Forever AND Absolute use the command below):
 ```
 cmake -B build
 cmake --build build --config release
+```
+For Sonic Forever and Sonic 2 Absolute
+```
+make -j5
 ```
