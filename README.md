@@ -6,6 +6,10 @@ To install dependencies on Ubuntu and Debian based systems, run the following co
 ```
 sudo apt install build-essential cmake libglew-dev libglfw3-dev libsdl2-dev libogg-dev libtheora-dev libvorbis-dev git libgbm-dev libdrm-dev
 ```
+For Arch users, run the following command in the terminal:
+```
+sudo pacman -S base-devel git cmake glew sdl2 libogg libvorbis libtheora
+```
 To clone the source code, open a terminal in your desired folder and run one of the following commands:
 ```
 git clone --recursive https://github.com/RSDKModding/RSDKv3-Decompilation
