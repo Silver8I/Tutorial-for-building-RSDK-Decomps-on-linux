@@ -2,7 +2,7 @@
 The video version for this tutorial can be found [here](https://youtu.be/FKzG_SkF0VM?si=cCcQnVm_CraS4Rdq)
 
 
-To install dependencies, run the following command in the command line:
+To install dependencies on Ubuntu and Debian based systems, run the following command in the terminal:
 ```
 sudo apt install build-essential cmake libglew-dev libglfw3-dev libsdl2-dev libogg-dev libtheora-dev libvorbis-dev git libgbm-dev libdrm-dev
 ```
